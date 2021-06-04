@@ -1,0 +1,3 @@
+2021-06-04 17:41:50: 'users:init' with data '"\/mnt\/d\/application\/backend.ttcar\/design_pattern_demo\/users.csv"'
+2021-06-04 17:41:50: 'users:created' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"a6b97616ec6758b91c7b3772f951be0c"}}'
+2021-06-04 17:41:50: 'users:deleted' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"a6b97616ec6758b91c7b3772f951be0c"}}'
